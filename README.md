@@ -1,9 +1,8 @@
 # Leyla Huseynova
 
-## Frontend Developer | Computer Engineering Graduate
+## Computer Engineering Graduate | Software Engineering
 
-I am a Computer Engineering graduate from ADA University. I build responsive web applications using React and JavaScript, with a focus on clear interfaces, reusable components and reliable API integration.
-My project experience includes e-commerce platforms, booking systems and responsive business websites. I have worked with Redux Toolkit for state management, React Router for navigation and Axios and Fetch API for connecting frontend applications to REST APIs.
+I am a Computer Engineering graduate from ADA University with hands-on experience in building responsive web applications using React and JavaScript. My project experience includes e-commerce platforms, booking systems and responsive business websites, with a focus on reusable components, state management and REST API integration.I am currently expanding my software engineering skills through Java, Spring Boot, SQL and PostgreSQL. My goal is to strengthen my knowledge of backend development, databases and software architecture while building reliable and scalable applications.
 
 ## Technical Skills
 
